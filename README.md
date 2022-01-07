@@ -8,7 +8,7 @@
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
   I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. :반짝임: <br/><br/>
+  My goal is to develop services that will make life easier.. :: <br/><br/>
 </p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sul-lq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul-lq&layout=compact&hide_border=true&theme=white)
 ## Platforms & Languages
