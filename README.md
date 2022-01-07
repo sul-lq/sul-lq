@@ -6,7 +6,7 @@
 </p>
 <p>
   Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.:kr:<br/><br/>
+  We are working on it based on Python DJango.:muscle:<br/><br/>
 </p>
   
   
